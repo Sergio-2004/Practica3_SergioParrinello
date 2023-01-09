@@ -2,4 +2,7 @@ Sergio Parrinello Roqueiro
 sergiopr.2004@gmail.com
 Equipo de futbol: Ninguno
 qqq
+<<<<<<< HEAD
 a
+=======
+>>>>>>> bc4f678f3bcc1f89ab90a83cf225d4708e4ba6fa
